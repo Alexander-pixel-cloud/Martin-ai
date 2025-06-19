@@ -1,0 +1,15 @@
+/* Custom style for AI vs Human */
+.ai-sent {
+    background-color: #2e2e2e;
+    color: #ff4b4b;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+.human-sent {
+    background-color: #1e1e1e;
+    color: #55ff88;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
